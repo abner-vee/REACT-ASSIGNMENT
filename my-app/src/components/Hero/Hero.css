@@ -1,0 +1,25 @@
+.Hero{
+    background-color: yellow;
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+
+.image{
+    width: 0;
+    padding-right: -50vh;
+}
+
+.luxeAssistance{
+    text-transform: capitalize;
+    text-align: justify;
+
+}
+
+.myDiv{
+    padding-left: 10vh;
+}
+
+.button{
+    padding-left: 10vh;
+}

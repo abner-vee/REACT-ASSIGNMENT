@@ -1,0 +1,21 @@
+.h2{
+    color: #333333;
+}
+.service{
+    display: flex;
+}
+.brandimg{
+    margin-top: 30px;
+    width: 200px;
+}
+.brandHead{
+    margin-top: 5px;
+}
+.lorem{
+    margin-top: 10px;
+    font-size: 12px;
+    color: #909090;
+}
+.uiux, .uiImageDiv{
+    margin-left: 50px;
+}
