@@ -1,6 +1,7 @@
 import React from 'react'
 import button from "../../assets/button.png";
 import image from "../../assets/image.png";
+import "./Hero.css"
 
 const Hero = () => {
   return (
